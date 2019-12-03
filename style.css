@@ -1,0 +1,44 @@
+body{
+    width: 960px;
+    background-color: #777;
+    color: #777;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header{
+    padding: 35px;
+    margin: 35px;
+    background-color: #ebebeb;
+    text-align: center;
+    font-size: small;
+}
+
+h1{
+    padding: 35px;
+    margin: 35px;
+    background-color: #ebebeb;
+    text-align: center;
+    font-size: small;
+}
+
+h2{ 
+    padding: 15%;
+    margin: 35px;
+    margin-top: 5px;
+    width: 20%;
+    height: 5%;
+    background-color: #ebebeb;
+    text-align: center;
+    font-size: small;
+    float: left;
+}
+
+article{
+    padding: 10px;
+    margin: 10px;
+    background-color: #ebebeb;
+    text-align: center;
+    font-size: small;
+}
